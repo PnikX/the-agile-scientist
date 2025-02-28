@@ -1,6 +1,10 @@
-_site
+site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
 .tmp
+.DS_Store
+*.swp
+*~
+old-docker-compose.yml
