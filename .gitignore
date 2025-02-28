@@ -1,8 +1,10 @@
 site
+_site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+.log
 .tmp
 .DS_Store
 *.swp
